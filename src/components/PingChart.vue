@@ -51,6 +51,7 @@ export default {
                 6: "6h",
                 24: "24h",
                 168: "1w",
+                720: "30d",
             },
 
             // A heartbeatList for 3h, 6h, 24h, 1w
